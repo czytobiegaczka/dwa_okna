@@ -17,6 +17,8 @@ namespace dwa_okna
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+            
         }
     }
 }

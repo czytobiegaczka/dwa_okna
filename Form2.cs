@@ -22,7 +22,13 @@ namespace dwa_okna
         }
 
         private void BtnClose_Click(object sender, EventArgs e)
+
+
         {
+
+            int a = 0;
+            a = a + 1;
+
             Application.Exit();
         }
     }
