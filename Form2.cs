@@ -25,7 +25,7 @@ namespace dwa_okna
 
 
         {
-
+            //do git
             int a = 0;
             a = a + 1;
 
