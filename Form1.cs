@@ -28,7 +28,7 @@ namespace dwa_okna
             form2.Owner = this;
             form2.ShowDialog();
             
-
+            //cos sobie pisze NIE WIEM CO
         }
 
     }
